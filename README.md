@@ -1,3 +1,10 @@
+## Ahaohaohao
+
+[![GitHub Stats](https://readmestats.999857.xyz/api?username=Ahaohaohao&show_icons=true&hide=contribs,prs&include_all_commits=true&count_private=true&bg_color=25,25,25,25&title_color=00ffaa&text_color=00f0ff&icon_color=ff00aa&border_radius=12&border_color=00ffaa&ring=00ffaa&ring_width=2)](https://github.com/Ahaohaohao)
+
+[![Top Languages](https://readmestats.999857.xyz/api/top-langs/?username=Ahaohaohao&layout=compact&bg_color=25,25,25,25&title_color=ff00aa&text_color=00f0ff&icon_color=00ffaa&border_radius=12&border_color=ff00aa&ring=ff00aa&ring_width=2)](https://github.com/Ahaohaohao)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahaohaohao&bg_color=1a1a1a&color=00ffaa&line=ff00aa&point=ffffff&area=true&hide_border=true)](https://github.com/Ahaohaohao)
 
 
 <!--
